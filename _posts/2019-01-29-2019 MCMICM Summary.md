@@ -4,7 +4,7 @@ title:      2019 MCM/ICM Summary
 subtitle:   2019 MCM/ICM 总结
 date:       2019-01-29
 author:     HuaChuanbo
-header-img: img/post-bg-MCM.jpg
+header-img: img/bg_img/mcm.jpg
 catalog: true
 tags:
     - MCM/ICM

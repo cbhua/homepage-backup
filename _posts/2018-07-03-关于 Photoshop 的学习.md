@@ -4,7 +4,7 @@ title:      关于 Photoshop 的学习
 subtitle:   一些对 PS 的理解
 date:       2018-07-03
 author:     HuaChuanbo
-header-img: img/post-bg-photoshop.jpg
+header-img: img/bg_img/photoshop.jpg
 catalog: true
 tags:
     - Design

@@ -4,7 +4,7 @@ title:      Tencent QQ Robot in Linux
 subtitle:   在 Linux 上托管腾讯 QQ 机器人
 date:       2019-02-16
 author:     HuaChuanbo
-header-img: img/post-bg-database.jpg
+header-img: img/bg_img/database.jpg
 catalog: true
 tags:
     - Linux

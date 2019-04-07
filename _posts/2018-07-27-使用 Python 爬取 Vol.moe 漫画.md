@@ -4,7 +4,7 @@ title:      使用 Python 爬取 Vol.moe 资源
 subtitle:   实现批量下载 Vol.moe 漫画
 date:       2018-07-25
 author:     HuaChuanbo
-header-img: img/post-bg-volmoe.jpg
+header-img: img/bg_img/volmoe.jpg
 catalog: true
 tags:
     - Python

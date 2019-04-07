@@ -4,7 +4,7 @@ title:      Python & Machine Learning Notes
 subtitle:   使用 Python 学习机器学习
 date:       2019-03-01
 author:     HuaChuanbo
-header-img: img/post-bg-database.jpg
+header-img: img/bg_img/machine_learning.jpg
 catalog: true
 tags:
     - Python

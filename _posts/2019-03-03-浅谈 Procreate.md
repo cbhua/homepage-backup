@@ -4,7 +4,7 @@ title:      Talking About Procreate
 subtitle:   浅谈 Procreate
 date:       2019-03-03
 author:     HuaChuanbo
-header-img: img/post-bg-ML.jpeg
+header-img: img/bg_img/procreate.jpg
 catalog: true
 tags:
     - Life

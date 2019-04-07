@@ -4,7 +4,7 @@ title:      Hahn-Banach Theorem Proof
 subtitle:   哈恩-巴拿赫定理的证明
 date:       2019-02-10
 author:     HuaChuanbo
-header-img: img/post-bg-ML.jpeg
+header-img: img/bg_img/machine_learning.jpeg
 catalog: true
 tags:
     - Math

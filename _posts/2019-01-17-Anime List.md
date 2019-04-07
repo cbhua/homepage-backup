@@ -4,7 +4,7 @@ title:      Anime List
 subtitle:   我看过的一些动漫
 date:       2019-01-17
 author:     HuaChuanbo
-header-img: img/post-bg-ML.jpeg
+header-img: img/bg_img/anime.png
 catalog: true
 tags:
     - Life

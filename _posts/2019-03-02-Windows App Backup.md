@@ -4,7 +4,7 @@ title:      Windows App Backup
 subtitle:   在 Win 上使用的软件
 date:       2019-03-02
 author:     HuaChuanbo
-header-img: img/post-bg-ML.jpeg
+header-img: img/bg_img/machine_learning.jpeg
 catalog: true
 tags:
     - Life

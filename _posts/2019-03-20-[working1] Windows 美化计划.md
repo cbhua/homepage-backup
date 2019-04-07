@@ -4,7 +4,7 @@ title:      Windows Beautify Plan
 subtitle:   Windows 美化计划
 date:       2019-03-20
 author:     HuaChuanbo
-header-img: img/post-bg-photoshop.jpg
+header-img: img/bg_img/photoshop.jpg
 catalog: true
 tags:
     - Design
