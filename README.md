@@ -1,32 +1,49 @@
-# HuaChuanbo's Blog
-> 你可以在这里找到它：http://huachuanbo.top
+# [Timegg](<https://huachuanbo.top/>)
 
-## 为什么想到建这么一个Blog
-闲的。
-也不全是；
+Chuanbo HUA's personal website.
 
-可能是觉得很有趣，或者觉得有一个自由的地方写写自己想的东西很舒服，也可能是天天忙来忙去想留点东西，也可能是想自己不一样一些；
 
-当然自己的水平还差很多，人菜还是要多读书。
 
-## 关于名字
-这个 Blog 暂时命名为 **Timegg** 吧，大概就是 Time Egg ；
->“把手上的东西放进时光蛋里”
+## Why create such a Blog.
+> Stay foolish, stay hungry.
 
-## Timegg 的介绍
-目前 Timegg 有以下部分：
+I'm a student, but not major in CS. But it dose not matter I enjoy coding and doing something I like here. Having a personal space to record life, learn more knowledge and connect with others is a amazing thing.
 
-* HOME - 主体部分，“正经”文章都在这里
-* ABOUT - 一些关于 Kurakun 的简介
-* KURAKUN'S GALLERY - 灵魂画师 Kurakun ~
-* NOZOMI'S BOOKCASE - 平常看些书可能会写些书评
-* TAGS - 可以用 Tags 检索历史文章
 
-未来可能会加上的部分：
 
-* TRAVELS - 出去转转
+## About the name
 
-## 其他
-更多的东西就不写在这里了，如果愿意的话不妨去看看？
-<br>
+I learned this name "Timegg" in *Doraemon* at the very beginning, which is the name of Doraemon's prop: "Time egg". At that time I was just a primary school student and was addicted to Doraemon's  world. It brought me irreplaceable memories and I still remember those today.
+
+
+
+## About this website
+Timegg has following sections：
+
+* HOME - The main part of blog. All posts will be posted here.
+* ABOUT - About this website.
+* KURAKUN'S GALLERY - Some of my art works will be posted here.
+* ~~NOZOMI'S BOOKCASE - [STOP USING]~~
+* TAGS - You can search posts by tags here.
+
+* TRAVELS - Some travel notes will be posted here.
+
+
+
+## Other
+
+This website was created in 2018/4/6.
+
+This website was migrated to Github in 2018/7/5.
+
+This website was reconstructed in 2019/4/7. 
+
+
+
+---
+
+Chuanbo HUA
+
 *Date. 2018/7/10*
+
+*Update. 2019/4/7*
