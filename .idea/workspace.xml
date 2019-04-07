@@ -2,8 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56ca7a94-2ad8-47ab-9794-44f3db82bfeb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookcase.html" beforeDir="false" afterPath="$PROJECT_DIR$/travels.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/404-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home-bg-art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home-bg-geek.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home-bg-o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-BJJ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-MCM.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-ML.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-alibaba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-android.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-bookcase.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-coffee.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-cook.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-database.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-debug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-desk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-digital-native.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-e2e-ux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-earth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-earth_nepo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-earth_sunscreen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-gallery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-git.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-github-cup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-hacker.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-iWatch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-ios10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-ios9-web.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-ioses.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-js-version.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-keybord.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-kuaidi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-miui-ux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-miui6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-music2018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-os-metro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-photoshop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-rwd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-rwd_before.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-swift.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-swift2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-unix-linux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-volmoe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-sample-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/offline.html" beforeDir="false" afterPath="$PROJECT_DIR$/offline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +77,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="travels.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/travels.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1109">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -32,10 +112,15 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_includes/open-embed.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/gallery.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/404.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/offline.html" />
+        <option value="$PROJECT_DIR$/tags.html" />
+        <option value="$PROJECT_DIR$/travels.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -49,39 +134,28 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="1" />
-    <option name="width" value="1934" />
-    <option name="height" value="1037" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="1935" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="HuaChuanbo.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HuaChuanbo.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HuaChuanbo.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HuaChuanbo.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HuaChuanbo.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HuaChuanbo.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="HuaChuanbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HuaChuanbo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,27 +198,29 @@
       <workItem from="1550720523041" duration="1500000" />
       <workItem from="1551161664772" duration="695000" />
       <workItem from="1551582856464" duration="2007000" />
+      <workItem from="1554622842756" duration="1993000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12154000" />
+    <option name="totallyTimeSpent" value="14147000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="1" width="1547" height="829" extended-state="0" />
+    <frame x="55" y="-7" width="1488" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12524462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1302578" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="Grunt " order="2" side_tool="true" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -227,27 +303,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1535">
@@ -278,6 +333,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
           <caret line="68" column="69" selection-start-line="68" selection-start-column="69" selection-end-line="68" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1891">
+          <caret line="111" column="9" lean-forward="true" selection-start-line="111" selection-start-column="9" selection-end-line="111" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offline.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2838">
+          <caret line="129" column="11" lean-forward="true" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travels.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1109">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
