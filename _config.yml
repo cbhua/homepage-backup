@@ -1,20 +1,18 @@
 # Site settings
 title: Timegg
-SEOTitle: Hua Chuanbo | Blog
-header-img: img/post-bg-earth_sunscreen.jpg
+SEOTitle: Chuanbo HUA | Blog
+header-img: img/bg_img/earth_sunscreen.jpg
 email: huachuanbo@outlook.com
 description: "Time fies."
 keyword: "huachuanbo, 化传博, blog, Timegg, timegg"
-url: "http://huachuanbo.top"          # your host, for absolute URL
+url: "http://huachuanbo.top"
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/HuaChuanbo/HuaChuanbo.github.io.git" # you code repository
+github_repo: "https://github.com/HuaChuanbo/HuaChuanbo.github.io.git"
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Do what you want to do."
-# sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
-
+sidebar: true
+sidebar-about-description: "Stay foolish, stay hungry."
+# sidebar-avatar: /img/about-BY-gentle.jpg
 
 # SNS settings
 RSS: true
@@ -25,24 +23,16 @@ github_username:    HuaChuanbo
 # jianshu_username:   
 twitter_username:   magic_kurakun
 
-
-
-
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-
-
+anchorjs: true                          #check out line:181 of `post.html`
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
-
-
-
 
 # Markdown settings
 # replace redcarpet to kramdown,
@@ -51,9 +41,7 @@ gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
-
-
+  input: GFM
 
 # Gitalk
 gitalk:
@@ -65,37 +53,26 @@ gitalk:
   admin: HuaChuanbo
   distractionFreeMode: true
 
-
-# 统计
-
 # Analytics settings
 # Baidu Analytics
 ba_track_id: 5d49391b5e791097363936d7b1e214da
 
 # Google Analytics
-ga_track_id: 'UA-134730804-1'            # Format: UA-xxxxxx-xx
-ga_domain: huachuanbo.top               # 默认的是 auto
-
-
-
-
+ga_track_id: 'UA-134730804-1'
+ga_domain: huachuanbo.top
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
-
-
+featured-tags: true
+featured-condition-size: 1
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-
-
 # Friends
 friends: [
     {
-        title: "阿里云",
+        title: "Ali Cloud",
         href: "https://www.aliyun.com/"
     },{
         title: "GitHub",
