@@ -2,7 +2,7 @@
 layout:     post
 title:      Anime List
 subtitle:   我看过的一些动漫
-date:       2019-01-17
+date:       2018-10-10
 author:     HuaChuanbo
 header-img: img/bg_img/anime.png
 catalog: true
