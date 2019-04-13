@@ -7,7 +7,7 @@ Chuanbo HUA's personal website.
 ## Why create such a Blog.
 > Stay foolish, stay hungry.
 
-I'm a student, but not major in CS. But it dose not matter I enjoy coding and doing something I like here. Having a personal space to record life, learn more knowledge and connect with others is a amazing thing.
+I'm a student, but not major in CS. But it dose not matter I enjoy coding and doing something I like here. Having a personal space to record life, learn more knowledge and connect with others is an amazing thing.
 
 
 
