@@ -2,7 +2,7 @@
 layout:     post
 title:      Hahn-Banach Theorem Proof
 subtitle:   哈恩-巴拿赫定理的证明
-date:       2019-02-10
+date:       2019-03-10
 author:     HuaChuanbo
 header-img: img/bg_img/machine_learning.jpeg
 catalog: true
@@ -12,6 +12,8 @@ tags:
 ---
 
 # 前言
+
+**注意**：由于 Mathtax 在这里对公式显示出现比较严重的问题，之后准备改用 Latex 重写这部分内容。
 
 过年在家出于兴趣阅读了一些金融相关的书籍，其中涉及了相当多的数学原理，比较的有趣，感受到了数学在真实生活中的应用。其中涉及到了我在上一个学期在泛函分析中的一个定理：[Hahn-Banach Theorem(English)](https://en.wikipedia.org/wiki/Hahn%E2%80%93Banach_theorem) 即 [哈恩-巴拿赫定理(中文)](https://zh.wikipedia.org/wiki/%E5%93%88%E6%81%A9%EF%BC%8D%E5%B7%B4%E6%8B%BF%E8%B5%AB%E5%AE%9A%E7%90%86) 。这个定理被称为泛函分析三大定理之一，是泛函分析中极为重要的一个工具。在经济学中 Hahn-Banach Theorem 与市场经济的福利经济学第二定理有着密切的关系。
 
