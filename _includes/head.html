@@ -61,9 +61,30 @@
     <![endif]-->
 
     <!-- ga & ba script hoook -->
-    <script></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
-
+    <!-- Mathjax fix -->
+    <script type="text/javascript">
+        $(document).ready(function(){
+          $("code").map(function(){
+            match = /^\$(.*)\$$/.exec($(this).html());
+            if (match) {
+              $(this).replaceWith("<span class=hpl_mathjax_inline>" + $(this).html() + "</span>");
+              MathJax.Hub.Queue(["Typeset",MathJax.Hub,$(this).get(0)]);
+            }
+            match = /^\$\$(.*)\$\$$/.exec($(this).html());
+            if (match) {
+              $(this).replaceWith("<span class=hpl_mathjax_inline>" + $(this).html() + "</span>");
+              MathJax.Hub.Queue(["Typeset",MathJax.Hub,$(this).get(0)]);
+            }
+            match = /^\\begin/.exec($(this).html());
+            if (match) {
+              $(this).replaceWith("<span class=hpl_mathjax_inline>" + $(this).html() + "</span>");
+              MathJax.Hub.Queue(["Typeset",MathJax.Hub,$(this).get(0)]);
+            }
+          });
+        });
+    </script>
+    <!-- Mathjax fix end -->
     <!-- Valcomment -->
     <!-- <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
     <script src='//unpkg.com/valine/dist/Valine.min.js'></script> -->
