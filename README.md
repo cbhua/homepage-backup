@@ -1,8 +1,10 @@
-# [Timegg](<https://huachuanbo.top/>)
+# [Timegg](<https://timegg.top/>)
 
 Chuanbo HUA's personal website.
 
+**N.B. This personal site (www.huachuanbo.top) has been closed at 2019.04.07 and transfered to another site: www.timegg.top. Thank you for your company so far and let's go start to a new world.**
 
+---
 
 ## Why create such a Blog.
 > Stay foolish, stay hungry.
@@ -42,8 +44,7 @@ This website was reconstructed in 2019/4/7.
 
 ---
 
-Chuanbo HUA
+@Chuanbo HUA
 
-*Date. 2018/7/10*
+Date. 2018/7/10
 
-*Update. 2019/4/7*
