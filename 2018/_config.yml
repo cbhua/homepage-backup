@@ -1,0 +1,87 @@
+# Site settings
+title: Timegg
+SEOTitle: Chuanbo HUA | Blog
+header-img: img/bg_img/earth_sunscreen.jpg
+email: huachuanbo@outlook.com
+description: "Time fies."
+keyword: "huachuanbo, 化传博, blog, Timegg, timegg"
+url: "http://huachuanbo.top"
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/HuaChuanbo/HuaChuanbo.github.io.git"
+
+# Sidebar settings
+sidebar: true
+sidebar-about-description: "Stay foolish, stay hungry."
+# sidebar-avatar: /img/about-BY-gentle.jpg
+
+# SNS settings
+RSS: true
+# weibo_username:     
+# zhihu_username:     
+github_username:    HuaChuanbo
+# facebook_username:   
+# jianshu_username:   
+twitter_username:   magic_kurakun
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          #check out line:181 of `post.html`
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+
+# Gitalk
+gitalk:
+  enable: true    
+  clientID: 8f61b6983b4fde72922d                           
+  clientSecret: 8cf915c73b7ae64f0bb125a2a578ddd5d02034c6   
+  repo: HuaChuanbo.github.io   
+  owner: HuaChuanbo   
+  admin: HuaChuanbo
+  distractionFreeMode: true
+
+# Analytics settings
+# Baidu Analytics
+ba_track_id: 5d49391b5e791097363936d7b1e214da
+
+# Google Analytics
+ga_track_id: 'UA-134730804-1'
+ga_domain: huachuanbo.top
+
+# Featured Tags
+featured-tags: true
+featured-condition-size: 1
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+# Friends
+friends: [
+    {
+        title: "Ali Cloud",
+        href: "https://www.aliyun.com/"
+    },{
+        title: "GitHub",
+        href: "https://github.com/HuaChuanbo/"
+    },{
+        title: "Apple",
+        href: "https://apple.com"
+    },{
+        title: "Apple Developer",
+        href: "https://developer.apple.com/"
+    }
+]

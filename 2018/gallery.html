@@ -1,0 +1,131 @@
+---
+layout: page
+title: "Gallery"
+description: "这里是海妖的画廊。"
+header-img: "img/bg_img/gallery.jpg"
+---
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+
+    <!--copied from markdown -->
+    <h3>The Lantern Festival.</h3>
+    <img src="https://s2.ax1x.com/2019/02/26/kILzOH.jpg" alt="kILzOH.jpg" border="0">
+    <p>Work in 2019/2/19, Procreate iPad pro 10.5'.</p>
+    <p>
+        Happy the Lantern Festival!
+    </p>
+
+    <h3>Fragaria × ananassa Duch.</h3>
+    <img src="https://s2.ax1x.com/2019/02/14/kDuLL9.jpg" alt="kDuLL9.jpg" border="0">
+    <p>Work in 2019/2/14, Procreate iPad pro 10.5'.</p>
+    <p>
+        首次尝试水彩，目前还没有找到比较顺手的笔刷，处于摸索阶段。在 iPad 平台上画水彩的优势是非常方便地撤销，
+        这样就可以反复尝试不同色彩和混色方式，以达到自己满意的程度。水彩是我非常喜欢的绘画种类，我也会不断的练习。
+    </p>
+
+    <h3>Nino</h3>
+    <img src="https://s2.ax1x.com/2019/02/14/kDKSJK.jpg" alt="kDKSJK.jpg" border="0">
+    <p>Work in 2019/2/11, Procreate iPad pro 10.5'.</p>
+    <p>
+        很多画师在 Procreate 上实现了非常优秀的漫画风格，自己也尝试了一次，这种日式漫画的填色风格是我非常喜欢的。
+    </p>
+
+    <h3>Hear:t</h3>
+    <img src="https://s2.ax1x.com/2019/02/14/kDujd1.jpg" alt="kDujd1.jpg" border="0">
+    <p>Work in 2018/10/23, Procreate iPad pro 10.5'.</p>
+    <p>
+        尝试比较黑暗的插画风格，在心情不好的时候画的画也是极端的反映内心。
+    </p>
+
+    <h3>No_name</h3>
+    <img src="https://s2.ax1x.com/2019/02/14/kDuvIx.jpg" alt="kDuvIx.jpg" border="0">
+    <p>Work in 2018/9/1, Procreate iPad pro 10.5'.</p>
+    <p>
+        尝试 Procreate 中的铅笔，Apple Pencil 侧向压感在上调起来还是比较方便的。
+        我对 Apple Pencil 在 Procreate 中的设置没有进行调节，压感控制起来过于灵敏，
+        导致部分调子粗细控制不到位。
+    </p>
+
+    <h3>Ψ-Sai</h3>
+    <img src="https://s2.ax1x.com/2019/02/14/kDuXZR.jpg" alt="kDuXZR.jpg" border="0">
+    <p>Work in 2018/6/2, Procreate iPad pro 10.5'.</p>
+    <p>
+        临摹于 Anime《斉木楠雄のΨ難》中场景，电子平台上绘画 Anime 场景或人物非常的方便。
+    </p>
+
+    <h3>DF</h3>
+    <img src="https://s2.ax1x.com/2019/02/14/kDuzi6.jpg" alt="kDuzi6.jpg" border="0">
+    <p>Work in 2018/5/8, Procreate iPad pro 10.5'.</p>
+    <p>
+        在拿到 iPad 四个月之后才拿到了 Apple Pencil，第一次尝试 Apple Pencil，在此之前我经常使用 Wacom，
+        第一次拿到 Pencil 对其压感、防抖都比较不熟悉。首张图画的还是很粗糙的。
+    </p>
+
+    <h5>Friends:</h5>
+    <ul>
+        <li><a href="https://www.pixiv.net/">Pixiv</a></li>
+        <li><a href="https://twitter.com/magic_kurakun">Twitter</a></li>
+        <li><a href="http://www.nicovideo.jp">Niconico</a></li> 
+        <li><a href="https://pixabay.com/">Pixabay</a></li>
+    </ul>
+</div>
+
+<!-- Handle Language Change -->
+<script type="text/javascript">
+    // get nodes
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
+    // bind hashchange event
+    window.addEventListener('hashchange', _render);
+    // handle render
+    function _render(){
+        var _hash = window.location.hash;
+        // en
+        if(_hash == "#en"){
+            $select.selectedIndex = 1;
+            $en.style.display = "block";
+            $zh.style.display = "none";
+        // zh by default
+        }else{
+            // not trigger onChange, otherwise cause a loop call.
+            $select.selectedIndex = 0;
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        }
+    }
+    // handle select change
+    function onLanChange(index){
+        if(index == 0){
+            window.location.hash = "#zh"
+        }else{
+            window.location.hash = "#en"
+        }
+    }
+    // init
+    _render();
+</script>
+
+
+<!-- Gitalk 评论 start  -->
+{% if site.gitalk.enable %}
+<!-- Gitalk link  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+    <script type="text/javascript">
+    var gitalk = new Gitalk({
+    clientID: '{{site.gitalk.clientID}}',
+    clientSecret: '{{site.gitalk.clientSecret}}',
+    repo: '{{site.gitalk.repo}}',
+    owner: '{{site.gitalk.owner}}',
+    admin: ['{{site.gitalk.admin}}'],
+    distractionFreeMode: {{site.gitalk.distractionFreeMode}},
+    id: 'about',
+    });
+    gitalk.render('gitalk-container');
+</script>
+{% endif %}
+<!-- Gitalk end -->
