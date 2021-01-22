@@ -11,37 +11,28 @@ draft: false
 
 [Aengus | Blog](https://www.aengus.top/) - Stay Hungry, Stay Foolish. 
 
-一位优秀的学弟的网站，目前已入职 Byte Dance，未来可期。
+一位优秀本校学弟的网站，目前已入职 Byte Dance，未来可期。
 
 ---
 
 [idealclover](https://idealclover.top/) - 是翠翠的个人网站！
 
-南京大学与我同级的本科生的网站，有着丰富的技术上与生活上内容，并可以很好的平衡它们。
-
----
-
-[Ramen’s Box](https://blog.lxdlam.com/) 
-
-本校 ACM 大佬，以 SSP Offer 供职于 Byte Dance。
+南京大学与我同级本科生的网站，有着丰富的技术与生活上内容，并可以很好的平衡它们。
 
 ---
 
 [云游君的小站](https://www.yunyoujun.cn/) - 希望能成为一个有趣的人。
 
-从 16 年运行至今，成熟且完善的个人网站，同时深得二次元精髓。
+从 16 年运行至今，成熟且完善的个人网站，深得二次元精髓。
 
 ---
 
-[Lil’Log](https://lilianweng.github.io/lil-log/) 
+[Yihui Xie](https://yihui.org/) - 谢益辉
 
-目前在 Open AI 的国人大牛，她写的很多关于 Reinforcement Learning 的文章非常有启发价值。
+我最喜欢的博客之一，他的网站是我认为博客的理想状态之一。文章真实细腻，内容丰富，有逻辑且行文流畅，是我不断学习的对象。并且其本人经历丰富，不论是在学术上还是在生活上都是我向往的。
 
-------
+<br>
 
-[Zymreal](https://github.com/Zymrael)
+这里是链接，不止是友链。
 
-同在一个实验室的神仙师兄，Master 期间中了两篇 NIPS。正在抱大腿取经中。
-
-
-
+你可以自由留下你网站的链接，只要我觉得它有趣，我就会把它添加到这里来。当然，如果你觉得 TIMEGG 有趣，也可以在你的网站添加它。
