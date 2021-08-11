@@ -65,6 +65,18 @@ draft: false
 
 ---
 
+[FanHeart](https://hesifan.top) - 不染轻裳
+
+是 Minecraft 的硬核玩家，服务器服主，有很多有趣的服务器经验。同时也是 AWBW 玩家，对我来说非常新奇。
+
+---
+
+[AmosHk](https://amoshk.top) - 豆豆
+
+“六边形战士”般的网站，指在设计、技术、生活、游戏、旅游、科技方面都很吸引人，同时站长也是很有趣的人。
+
+---
+
 <br>
 
 <br>
